@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... SCCM
-- 🌱 I’m currently learning ... Powershell, SCCM
-- 👯 I’m looking to collaborate on ... Translating FOSS projects
-- 💬 Ask me about ... DockSTARTer, Organizr
+- 🔭 I’m currently working on ... Creating random Powershell scripts
+- 🌱 I’m currently learning ... Powershell, SCCM, Intune
 - 📫 How to reach me: ... angrycuban@angrycuban.xyz
 - ⚡ Fun fact: ... I've delivered babies
 
