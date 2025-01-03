@@ -1,8 +1,3 @@
-
-[![GitHub followers](https://img.shields.io/github/followers/angrycuban13?logo=github)](https://github.com/users/follow?target=angrycuban13)
-
-[![AngryCuban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angrycuban13&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hi there, I'm AngryCuban 👋
 
 ## About Me
